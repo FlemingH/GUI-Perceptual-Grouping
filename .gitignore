@@ -5,3 +5,4 @@ img/
 *.json
 *.log
 .idea/
+data/
