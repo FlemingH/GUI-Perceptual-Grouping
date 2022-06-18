@@ -1,0 +1,7 @@
+
+__pycache__/
+img/
+.vscode/
+*.json
+*.log
+.idea/
